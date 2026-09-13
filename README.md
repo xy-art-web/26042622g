@@ -36,7 +36,7 @@ Furthermore, direct code literacy fundamentally redefines the relationship betwe
 
 Instead of spending weeks on handoff tweaking Figma prototypes only to argue over pixel misalignments, designers can now prototype directly within code repositories. By submitting front-end adjustments via Git branches, designers allow engineers to focus on heavy backend logic. Overcoming "code hesitation" enables designers to bridge the gap between abstract user experience and concrete functional logic, establishing a faster, shared language across the entire team.
 
-## 5. References
+## References
 
 * **Designlab.** (2026). *How a HubSpot Senior Product Designer built technical fluency in Vibe Coding Camp*. Designlab Blog. https://designlab.com/blog/vibe-coding-camp-review-hubspot-senior-product-designer
 * **Gates, B.** (2026). *A turbulent AI era and critical choices to make*. GatesNotes. https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make
