@@ -1,15 +1,11 @@
-# Process and Human-AI Collaboration Log
+# Human-AI Collaboration Process
 
-## 1. Human-AI Collaboration Process
+## What I Kept
+* **Structural Framework**: Retained the 4-part logical narrative structure created with AI guidance.
+* **Core Concepts**: Kept key theoretical insights, including the distinction between "describing vs. specifying" and IDEO's "last mile of delight."
+* **References**: Retained foundational citations including Gates (2026), IDEO Journal, Designlab, and XMS Tech Hub.
 
-* **Initial Drafting**: Used Gemini (LLM) to structure the core logical outline and assemble fragmented concepts into a coherent, academic essay framework.
-* **Content Iteration**:
-  * **Title Refinement**: Replaced the abstract initial title with a more precise, academic-focused title: *Beyond the Prompt*.
-  * **Case Study Reshaping**: Rewrote the "Describing vs. Specifying" section to convert abstract technical terms (e.g., shaders, vector glitches) into intuitive, real-world interactive design scenarios.
-  * **Academic Enhancement**: Integrated van Dyck et al. (2025) on "Disembodied Creativity" to strengthen the theoretical foundation regarding the limits of prompt-based design.
-
-***
-
-## 
-
-
+## What I Rejected or Modified
+* **Replaced Generic Examples**: Rejected AI's generic example in Section 3 and replaced it with my personal portfolio project, *Becoming Salmon: Composting Kinship*, to demonstrate hands-on physical-digital prototyping.
+* **Corrected Citations**: Modified the citation in Section 2 to accurately reflect the agentic AI research paper by Roychoudhury et al. (2025).
+* **Language & Tone Optimization**: Refined Section 4 into concise English sentences, eliminating passive voice and complex structures.
