@@ -4,7 +4,7 @@
 
 We've reached a moment when generative models can synthesize executable scripts from plain natural-language prompts, improving exponentially every few months. As a designer navigating this automated landscape, the central question is unavoidable: *If machines can write code on command, why choose to learn programming today?* 
 
-As Bill Gates ([2026](https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make)) observed regarding our turbulent AI era, the technological choices we make now are critical. Learning to code in 2026 is not a defensive reaction or a nod to obsolete habits; it is a critical decision to retain creative agency, master our digital medium, and close the gap between vague intent and expressive reality.
+As Bill Gates ([2026](https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make)) observed regarding our turbulent AI era, the technological choices we make now are critical. Learning to code in 2026 is not a nod to obsolete habits; it is a critical decision to retain creative agency, master our digital medium, and close the gap between vague intent and expressive reality.
 
 ## 2. Describing vs. Specifying
 
@@ -14,28 +14,17 @@ Anyone can type a prompt like: `"Make an unsettling, interactive dynamic poster.
 
 As research on disembodied creativity highlights ([van Dyck et al., 2025](https://arxiv.org/abs/2502.13767)), embodied and experiential knowledge in creative practice is often implicit—it cannot be translated into command-based prompts alone. Relying strictly on prompting removes the physical, hands-on interface between the creator's mind, hand, and material, trapping the designer in a high-level, superficial loop.
 
-Real emotional impact lives in microscopic, specified details:
-* The sudden, unnerving acceleration when a cursor moves across the screen.
-* A subtle glitch in a custom vector curve that breaks at just the right frame.
-* The exact rhythm and performance of a WebGL GPU shader.
-
 Natural language is great for describing vague ideas, but code specifies exact behavior. Without code literacy, a designer remains a passive audience member picking from AI default options rather than a director controlling the medium.
 
-## 3. Materiality & Rapid Iteration
+## 3. Materiality & Rapid Iteration: Hands-On Practice
 
-Code is the digital designer’s raw material, much like pigment for a painter. Without computational thinking, designers remain trapped within an AI’s default parameters.
+Code is the digital designer’s raw material, much like pigment for a painter. Without computational thinking, abstract theoretical concepts remain disconnected from physical user experience. 
 
-This hands-on connection with material is reframing industry workflows. In an interview with [IDEO](https://www.ideo.com/journal/crafting-the-last-mile-of-delight), Joel Lewenstein, Head of Product Design at Anthropic, broke design down into three steps:
+I experienced this firsthand in my interactive installation project, *Becoming Salmon: Composting Kinship*. Exploring human-salmon symbiosis through Donna Haraway’s notion of the "Chthulucene," my goal was to translate complex ecological theory into a tactile experience. I built contrasting environments—an industrial fish farm versus a living "compost community"—using physical touch sensors, projection mapping, and WebGL 3D animation. 
 
-* **Defining Strategy**: Deciding *what* to build, *why* to build it, and *what problem* to solve.
-* **Building Layouts**: Creating routine user flows and assembling basic UI components.
-* **Intentional Craft**: Crafting the "last mile of delight"—those subtle, micro-interactions that make a tool memorable.
+As a first-time sensor programmer, the primary challenge was bridging theoretical ideas with sensory perception. By learning hardware logic, repeatedly debugging code, and conducting usability tests with peers, I calibrated sensor sensitivity and visual responsiveness. 
 
-Generative agents have largely automated Step 2. As Lewenstein noted:
-
-> "Step two is gone. We just give Claude a directive, and it does it automatically... All the boring tasks are automated, and designers can sit at a whiteboard, dreaming up bigger, more ambitious ideas."
-
-Yet, even with high automation, "all designers write code" at frontier labs like Anthropic. They write code not to compete with machines on typing speed, but to build custom internal automation tools and master Step 3—the intentional craft. Code literacy empowers designers to rapid-prototype custom solutions and retain control over the material substrate rather than depending on standard AI templates.
+This iterative, hands-on process proved that code literacy is essential for physical-digital prototyping. As [IDEO's design framework](https://www.ideo.com/journal/crafting-the-last-mile-of-delight) highlights, generative tools can automate standard UI layouts, but mastering code as a material allows designers to craft the "last mile of delight"—delivering micro-interactions that make speculative ideas tangible, intuitive, and emotionally resonant.
 
 ## 4. Upskilling and Empowering the Team: Designer-Engineer Collaboration
 
