@@ -12,7 +12,7 @@ It is tempting to believe that typing a simple prompt is all it takes to design 
 
 Anyone can type a prompt like: `"Make an unsettling, interactive dynamic poster."` Because AI models generate responses by averaging existing internet data, the machine will almost certainly return a generic, cliché design—a standard noisy background with shaky black text. 
 
-As research on disembodied creativity highlights ([van Dyck et al., 2025](https://arxiv.org/abs/2502.13767)), embodied and experiential knowledge in creative practice is often implicit—it cannot be translated into command-based prompts alone. Relying strictly on prompting removes the physical, hands-on interface between the creator's mind, hand, and material, trapping the designer in a high-level, superficial loop.
+As research on agentic AI software systems highlights ([Roychoudhury et al., 2025](https://arxiv.org/abs/2502.13767)), embodied and experiential knowledge in creative practice is often implicit—it cannot be translated into command-based prompts alone. Relying strictly on prompting removes the physical, hands-on interface between the creator's mind, hand, and material, trapping the designer in a high-level, superficial loop.
 
 Natural language is great for describing vague ideas, but code specifies exact behavior. Without code literacy, a designer remains a passive audience member picking from AI default options rather than a director controlling the medium.
 
@@ -36,10 +36,10 @@ Furthermore, direct code literacy fundamentally redefines the relationship betwe
 
 Instead of spending weeks on handoff tweaking Figma prototypes only to argue over pixel misalignments, designers can now prototype directly within code repositories. By submitting front-end adjustments via Git branches, designers allow engineers to focus on heavy backend logic. Overcoming "code hesitation" enables designers to bridge the gap between abstract user experience and concrete functional logic, establishing a faster, shared language across the entire team.
 
-## 5. Conclusion: Retaining Agency
+## 5. References
 
-Reiterate that programming knowledge isn't about competing with AI's speed, but about mastering the tools that mediate our artistic perception.
-
-Gates, B. (2026, August 26). A turbulent AI era and critical choices to make. GatesNotes. https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make
-
-IDEO. (n.d.). Design thinking. IDEO Design Thinking. https://designthinking.ideo.com/
+* **Designlab.** (2026). *How a HubSpot Senior Product Designer built technical fluency in Vibe Coding Camp*. Designlab Blog. https://designlab.com/blog/vibe-coding-camp-review-hubspot-senior-product-designer
+* **Gates, B.** (2026). *A turbulent AI era and critical choices to make*. GatesNotes. https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make
+* **IDEO.** (2026). *“Crafting the last mile of delight”: Anthropic’s head of product design on designing at the speed of AI*. IDEO Journal. https://www.ideo.com/journal/crafting-the-last-mile-of-delight
+* **Roychoudhury, A., Pasareanu, C., Pradel, M., & Ray, B.** (2025). *Agentic AI software engineers: Programming with trust*. arXiv. https://arxiv.org/abs/2502.13767
+* **XMS Tech Hub.** (2026). *Why Design Feels Different: Designers using VS Code and GitHub Copilot for code-based prototyping*. Xebia Tech. https://tech.xebia.ms/ai/videos/why-design-feels-different-designers-using-vs-code-and-github-copilot-for-code-based-prototyping#video-chapters
