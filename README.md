@@ -38,8 +38,8 @@ Instead of spending weeks on handoff tweaking Figma prototypes only to argue ove
 
 ## References
 
-* **Casacuberta, D., & Guersenzvaig, A.** (2025). Disembodied creativity in generative AI: Prima facie challenges and limitations of prompting in creative practice. *Frontiers in Artificial Intelligence*, 8, 1651354. https://doi.org/10.3389/frai.2025.1651354
 * **Designlab.** (2026). *How a HubSpot Senior Product Designer built technical fluency in Vibe Coding Camp*. Designlab Blog. https://designlab.com/blog/vibe-coding-camp-review-hubspot-senior-product-designer
 * **Gates, B.** (2026). *A turbulent AI era and critical choices to make*. GatesNotes. https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make
 * **IDEO.** (2026). *“Crafting the last mile of delight”: Anthropic’s head of product design on designing at the speed of AI*. IDEO Journal. https://www.ideo.com/journal/crafting-the-last-mile-of-delight
+* **Roychoudhury, A., Pasareanu, C., Pradel, M., & Ray, B.** (2025). *Agentic AI software engineers: Programming with trust*. arXiv. https://doi.org/10.48550/arXiv.2502.13767
 * **XMS Tech Hub.** (2026). *Why Design Feels Different: Designers using VS Code and GitHub Copilot for code-based prototyping*. Xebia Tech. https://tech.xebia.ms/ai/videos/why-design-feels-different-designers-using-vs-code-and-github-copilot-for-code-based-prototyping#video-chapters
